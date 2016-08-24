@@ -11,6 +11,7 @@ namespace GitTestConsoleApplication
         static void Main(string[] args)
         {
             int i;
+            int j;
         }
     }
 }
